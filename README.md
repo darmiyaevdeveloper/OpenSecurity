@@ -4,17 +4,17 @@ A group of tools to help you be safe.
 # What is included?
 So far, this project is still being created, but here is the list of tools that we want to add:
 
--- Data breach tool
+- Data breach tool
 
--- Block sites
+- Block sites
 
 - Stop Trackers
 
 - Block Ads
 
--- Clear URL
+- Clear URL
 
--- Ask if user wants to go to blacklisted sites
+- Ask if user wants to go to blacklisted sites
 
 - Scan sites
 
